@@ -1,0 +1,19 @@
+{
+  "name": "chart-d3",
+  "version": "1.0.0",
+  "description": "this is a chart width react-d3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micky0320/react-d3-chart-demo.git"
+  },
+  "author": "micky0320",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micky0320/react-d3-chart-demo/issues"
+  },
+  "homepage": "https://github.com/micky0320/react-d3-chart-demo#readme"
+}
